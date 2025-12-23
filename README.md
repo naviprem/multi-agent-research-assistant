@@ -1,4 +1,4 @@
-# Winter Break GenAI Project: Multi-Agent Research Assistant with Evaluation Pipeline
+# Multi-Agent Research Assistant with Evaluation Pipeline
 
 ## Project Overview
 Build a **production-grade, multi-agent research system** that can analyze technical documentation, answer complex queries, and self-evaluate its responses — all using open-source tools running locally.
