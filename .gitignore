@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Results and outputs
+results_*.json
+comparison.csv
+comparison.png
+*.log
+
+# AWS config files
+*.pem
+.env
+aws/eks/eks-cluster.yaml
+aws/iam/*-policy.json
+aws/k8s/*-deployment.yaml
+aws/k8s/*-service.yaml
+aws/k8s/*-configmap.yaml
+aws/k8s/*-pod.yaml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Backup files
+*.bak
+*.backup
+k8s/*.bak
+CLAUDE.md
+archive/
+Makefile
+docs/
+data/
+mlruns/
+nyc-taxi-data/
+experiments/
+
